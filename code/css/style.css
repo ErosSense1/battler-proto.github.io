@@ -1,0 +1,10 @@
+* {
+	margin: unset;
+}
+canvas {
+	background-image: url(assets/background/Captura.PNG);
+	position: absolute;
+}
+button {
+	position: absolute;
+}
